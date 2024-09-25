@@ -1,7 +1,4 @@
--- Finding the highest paying Data Analyst jobs and which companies are highering.
-
-
-
+-- Finding the highest paying Data Analyst jobs and which companies are hiring.
 SELECT 
     job_id,
     job_title,
